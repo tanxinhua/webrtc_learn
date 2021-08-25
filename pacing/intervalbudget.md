@@ -1,8 +1,7 @@
 # IntervalBudget
 
 ## WebRTC IntervalBudget分析
-
-[![&#x8A00;&#x5251;](https://pic1.zhimg.com/5608a1b8196bcda71cd016d0134fea2e_xs.jpg?source=172ae18b)](https://www.zhihu.com/people/vpqr)[言剑](https://www.zhihu.com/people/vpqr)技术立业​关注他2 人赞同了该文章
+### 转载自 [https://zhuanlan.zhihu.com/p/184944074](https://zhuanlan.zhihu.com/p/184944074)
 
 WebRTC中Pacing等模块需要按照指定的码率发送报文，保证码率稳定，会用到`IntervalBudget`这个类。本篇将介绍`IntervalBudget`这个类。
 
